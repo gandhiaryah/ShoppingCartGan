@@ -1,0 +1,31 @@
+{
+  "employees": [
+    {
+      "empId": "101",
+      "empName": "Jegadeesh",
+      "empGender": "M",
+      "empEmail": "jega@tes.com",
+      "empContactNo": "111111",
+      "empAddress": "111 ffdsf",
+      "id": 1
+    },
+    {
+      "empId": "102",
+      "empName": "Aryah J Kannan",
+      "empGender": "M",
+      "empEmail": "aryah@tes.com",
+      "empContactNo": "555555",
+      "empAddress": "Casagrand ECR J606, J Block, 6th Floor, Maya Street",
+      "id": 2
+    },
+    {
+      "empId": "103",
+      "empName": "Gandhi",
+      "empGender": "F",
+      "empEmail": "gandhi@tes.com",
+      "empContactNo": "6666666666",
+      "empAddress": "Casagrand ECR J606, J Block, 6th Floor, Maya Street",
+      "id": 3
+    }
+  ]
+}

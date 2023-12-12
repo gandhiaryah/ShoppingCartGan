@@ -1,0 +1,32 @@
+.img-size {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 200px;
+    width: 200px;   
+
+}
+
+.img-cart-size {
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 100px;   
+
+}
+sup {
+    color: red;
+}
+
+.textsize {
+
+    width: 350px;
+}
+
+.product-name {
+
+    height: 80px;
+}

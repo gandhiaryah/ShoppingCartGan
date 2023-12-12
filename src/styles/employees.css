@@ -1,0 +1,47 @@
+.col-form-label {
+    text-align: left;
+}
+
+.box{
+    padding: 50px;
+    background: #a8cfee;
+    width: 800px;
+    /* border-style: solid; 
+   border-color: black;
+    border-radius: 2em;*/
+}
+
+.register-form {
+    width: 700px;
+    
+}
+
+.register-form {
+    
+    border-style: solid;
+    border-color: yellow;
+    border-radius: 1em;
+
+}
+
+table
+{
+    text-align: left;
+
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    width: 400px;
+}
+
+h2{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}

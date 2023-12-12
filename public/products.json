@@ -1,0 +1,77 @@
+{
+    "products": [
+    {
+      "productId": "A10001",
+      "productName": "Logitech M510 - mouse - 2.4 GHz",
+      "productImage": "mouse.png",
+      "productPrice": 1000,
+      "quantity": 1,
+      "id": 1
+    },
+    {
+      "productId": "A10002",
+      "productName": "Logitech Desktop MK120 - keyboard and mouse set - English",
+      "productImage": "keyboard.png",
+      "productPrice": 3000,
+      "quantity": 1,
+      "id": 2
+    },
+    {
+      "productId": "A10003",
+      "productName": "Verbatim Wireless Mini Bluetooth Speaker - speaker - for portable use",
+      "productImage": "speaker.jpg",
+      "productPrice": 4000,
+      "quantity": 1,
+      "id": 3
+    },
+    {
+      "productId": "A10004",
+      "productName": "SanDisk Cruzer Blade - USB flash drive - 16 GB",
+      "productImage": "pendrive.png",
+      "productPrice": 800,
+      "quantity": 1,
+      "id": 4
+    },
+    {
+      "productId": "A10005",
+      "productName": "Logitech Zone Wireless Bluetooth Headset for Microsoft Teams - headset",
+      "productImage": "pendrive.png",
+      "productPrice": 800,
+      "quantity": 1,
+      "id": 5
+    },
+    {
+      "productId": "A10006",
+      "productName": "Apricorn Aegis Padlock 3.0 A25-3PL256-2000 - hard drive - 2 TB - USB 3.0",
+      "productImage": "hdd.png",
+      "productPrice": 20000,
+      "quantity": 1,
+      "id": 6
+    },
+    {
+      "productId": "A10007",
+      "productName": "Logitech HD Webcam C270 - webcam",
+      "productImage": "webcam.jpg",
+      "productPrice": 2800,
+      "quantity": 1,
+      "id": 7
+    },
+    {
+      "productId": "A10008",
+      "productName": "HP USB-C Dock G5 - Essential - docking station - USB-C - HDMI, 2 x DP - GigE",
+      "productImage": "dockstation.png",
+      "productPrice": 1500,
+      "quantity": 1,
+      "id": 8
+    },
+    {
+      "productId": "A10009",
+      "productName": "Poly Blackwire C3210 USB - headset",
+      "productImage": "headset1.png",
+      "productPrice": 1800,
+      "quantity": 1,
+      "id": 9
+    }
+    
+    ]
+}
