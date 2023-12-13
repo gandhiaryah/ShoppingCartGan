@@ -160,7 +160,7 @@ export default function Employees() {
                         </form>
                     </div>
                     <div className="col-sm-1"></div>
-                    <div className="col-sm-6">
+                    <div className="col-sm-6 register-form-detail">
                     <div><p>&nbsp;</p></div>
                     <div><p>&nbsp;</p></div>
                             <h4>EMPLOYEE DETAILS</h4>

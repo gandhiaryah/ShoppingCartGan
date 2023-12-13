@@ -2,21 +2,18 @@
     text-align: left;
 }
 
-.box{
-    padding: 50px;
-    background: #a8cfee;
-    width: 800px;
-    /* border-style: solid; 
-   border-color: black;
-    border-radius: 2em;*/
-}
+
+
 
 .register-form {
-    width: 700px;
-    
+    width: 600px;   
+    border-style: solid;
+    border-color: yellow;
+    border-radius: 1em;
+
 }
 
-.register-form {
+.register-form-detail {
     
     border-style: solid;
     border-color: yellow;
